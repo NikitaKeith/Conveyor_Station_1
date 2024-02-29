@@ -1,7 +1,9 @@
-# Conveyor_Station_1
+# Conveyor Station 1
 The project in TIA Portal with DP via ProfiNet
 
-Version: 18
+PLC: Siemens
+
+IDE Version: TiaPortal v.18
 
 CPU: S7-1500
 

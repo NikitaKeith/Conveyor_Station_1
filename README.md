@@ -10,6 +10,7 @@ CPU: S7-1500
 BUS-System: ProfiNet
 
 Funktion: 
+
 Station 1 must put down one pallet onto the belt and transport it to the next belt. Then the next pallet is puted down onto the tape and it is transported further to station 2
 Because there is a magnet at each corner of the pallet that activates the sensor, the shutdown of conveyor 1 occurs when the sensor is activated for the second time at the end of the conveyor.
 
